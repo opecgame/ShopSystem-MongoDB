@@ -1,0 +1,11 @@
+{
+    "token": "TOKENHERE",
+    "MongoDB": "mongodb://localhost:27017/topuptest",
+    "info":"Pekky System",
+	"guildid":"864213581204684861",
+	"shoproom":"878225604321894410",
+	"logsroom":"878151309298106369",
+    "prefix":"ps!",
+    "ownerIDS":["828642352259661834"],
+    "wallet":"0644456556"
+}

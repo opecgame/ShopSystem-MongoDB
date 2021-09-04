@@ -1,0 +1,20 @@
+{
+  "name": "shopsystem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.0.0-dev.t1628035429.00d5cee",
+    "events": "^3.3.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^5.12.13",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OpecZ CH",
+  "license": "ISC",
+  "description": ""
+}
